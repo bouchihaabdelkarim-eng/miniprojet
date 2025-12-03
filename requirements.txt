@@ -1,0 +1,6 @@
+customtkinter
+pymongo
+pandas
+psycopg2-binary
+pyodbc
+SQLAlchemy
